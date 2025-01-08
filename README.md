@@ -24,6 +24,6 @@ You can reach out to me via:
 
 - 📧 Email: [developer.gabo@gmail.com](mailto:developer.gabo@gmail.com)  
 - 📱 Phone: +57 310 330 6338  
-- 🌐 Website: [https://gabodev98.github.io/](https://gabodev98.github.io/)
+- 🌐 Website: [https://gabodev98.github.io/Portfolio](https://gabodev98.github.io/Portfolio)
 
 Feel free to explore my work, check out my repositories, and don't hesitate to contact me if you're interested in collaborating or learning more about my projects!
